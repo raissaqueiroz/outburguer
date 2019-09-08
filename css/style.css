@@ -1,0 +1,21 @@
+body{background: #ef8911;}
+.bg-menu {background-color: #4e2727;}
+.banner { height: 300px; width: 100%; background: url('../img/banner.jpg') no-repeat 100%; background-position: 60%;}
+#sobre {background: #ef8911; height: 800px; padding: 40px 0; display: flex; flex-flow: column wrap; justify-content: space-between; align-items: center;}
+
+.card, .btn-enviar {background: #ef8911;}
+.card{border: 1px solid #fff; width: 80%}
+.card-body{display: flex; flex-flow: column wrap; justify-content: space-between;}
+.card-title, .card-text, .icons, .btn-enviar {color: #fff; font-family: 'Nanum Gothic', sans-serif;}
+.icons {font-size: 50px;}
+ #contato {background: #f5f5f5;}
+.footer {background: #4e2727;}
+.btn-enviar{ font-weight: 700; }
+.btn-enviar:hover {background: rgba(239, 137, 17, 0.9); color: #fff;}
+.btn-enviar:focus {outline: 0 !important;}
+.display-4, p{color: #4e2727}
+@media (min-width: 900px){
+    .banner { height: 550px; background-position: center; }
+    #sobre{height: 350px; flex-flow: row nowrap; align-items: stretch;}
+    .card{border: none;}
+}
