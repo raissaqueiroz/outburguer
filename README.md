@@ -1,4 +1,8 @@
-# outburguer
+# Outburguer - More Tasty
+
+<p align="center">
+  <img src="https://github.com/raissaqueiroz/outburguer/blob/master/Material%20Gr%C3%A1fico/outburguer-visualizacao.png" />
+</p>
 
 Site institucional de uma hamburgueria desenvolvido para trabalho academico de empreendedorismo.
 
@@ -15,3 +19,5 @@ _Stack utilizada: Html, css, javascript e Bootstrap :)_
 </p>
 
 Você pode conferir o site [clicando aqui](https://www.raissaqueiroz.com.br/outburguer/)
+
+OBS.: Design e Logo feitos por mim!
