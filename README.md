@@ -4,7 +4,7 @@
   <img src="https://github.com/raissaqueiroz/outburguer/blob/master/Material%20Gr%C3%A1fico/outburguer-visualizacao.png" />
 </p>
 
-Site institucional de uma hamburgueria desenvolvido para trabalho academico de empreendedorismo.
+Site institucional básico de uma hamburgueria desenvolvido para trabalho academico de uma amiga na disciplina de empreendedorismo.
 
 _Stack utilizada: Html, css, javascript e Bootstrap :)_
 
